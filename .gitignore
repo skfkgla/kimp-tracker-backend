@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+generated/
+
+# Eclipse / STS
+.classpath
+.project
+.factorypath
+.settings/
+.apt_generated
+.springBeans
+.sts4-cache
+bin/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Gradle
+.gradle/
+build/
+!gradlew
+!gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# 기타
+HELP.md
+.env
+logs/
+*.log
