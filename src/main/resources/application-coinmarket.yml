@@ -1,0 +1,7 @@
+market:
+  upbit:
+    uri: wss://api.upbit.com/websocket/v1
+    interval: 10
+  binance:
+    uri: wss://stream.binance.com:9443/ws
+    interval: 30

@@ -1,4 +1,4 @@
-package dev.kimp.kimp_tracker_backend;
+package dev.kimp.tracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
